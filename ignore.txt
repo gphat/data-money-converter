@@ -6,5 +6,5 @@ _build*
 pm_to_blib*
 *.tar.gz
 .lwpcookies
-Data-Currency-Converter-*
+Data-Money-Converter-*
 cover_db

@@ -1,4 +1,4 @@
-Data-Currency-Converter
+Data-Money-Converter
 
 The README is used to introduce the module and provide instructions on
 how to install the module, any machine dependencies it may have (for
@@ -26,21 +26,21 @@ SUPPORT AND DOCUMENTATION
 After installing, you can find documentation for this module with the
 perldoc command.
 
-    perldoc Data::Currency::Converter
+    perldoc Data::Money::Converter
 
 You can also look for information at:
 
     RT, CPAN's request tracker
-        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Data-Currency-Converter
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Data-Money-Converter
 
     AnnoCPAN, Annotated CPAN documentation
-        http://annocpan.org/dist/Data-Currency-Converter
+        http://annocpan.org/dist/Data-Money-Converter
 
     CPAN Ratings
-        http://cpanratings.perl.org/d/Data-Currency-Converter
+        http://cpanratings.perl.org/d/Data-Money-Converter
 
     Search CPAN
-        http://search.cpan.org/dist/Data-Currency-Converter/
+        http://search.cpan.org/dist/Data-Money-Converter/
 
 
 COPYRIGHT AND LICENCE

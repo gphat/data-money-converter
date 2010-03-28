@@ -2,13 +2,13 @@ package #
     MyConverter;
 use Moose;
 
-with 'Data::Currency::Converter';
+with 'Data::Money::Converter';
 
 sub convert {
-    my ($self, $curr, $code) = @_;
+    my ($self, $money, $code) = @_;
 
-    return $curr->clone(
-        value => $curr->value * 2,
+    return $money->clone(
+        value => $money->value * 2,
         code => $code
     );
 }

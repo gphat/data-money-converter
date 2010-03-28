@@ -3,10 +3,10 @@ use strict;
 
 use lib qw(t/lib);
 
-use Data::Currency;
+use Data::Money;
 use MyConverter;
 
-my $curr = Data::Currency->new(
+my $curr = Data::Money->new(
     value => 100
 );
 
